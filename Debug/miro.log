@@ -1,0 +1,70 @@
+﻿  Worley.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(52): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(90): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(168): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(169): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(186): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(290): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(291): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(292): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(293): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(329): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(390): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(392): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(458): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\worley.cpp(460): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TriangleMeshLoad.cpp
+  TriangleMesh.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Triangle.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Sphere.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Scene.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  PFMLoader.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\pfmloader.cpp(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\pfmloader.cpp(65): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\pfmloader.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+  Perlin.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\perlin.h(24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\perlin.h(25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\perlin.h(26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  MiroWindow.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Material.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  main.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Lambert.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Image.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Console.cpp
+  Camera.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  BVH.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  BLPatch.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  assignment1.cpp
+c:\users\devin andres salemi\desktop\portfolio\c++\miro_\miro\miro\opengl.h(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Generating Code...
